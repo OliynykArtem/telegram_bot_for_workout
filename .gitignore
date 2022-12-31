@@ -1,0 +1,5 @@
+*.jpg
+*.mwb
+.idea/
+__pycache__/
+venv/

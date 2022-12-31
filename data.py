@@ -1,0 +1,8 @@
+TOKEN_TELEGRAM_BOT = "5433765906:AAFjQGgilNHOnWZi4jHViQ1d1qOy2A28pfk"
+
+# Database data
+HOST_DB = "127.0.0.1"
+USER_DB = "root"
+PASSWORD_DB = "1111"
+NAME_DB = "workout_db"
+
