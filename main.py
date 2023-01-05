@@ -3,7 +3,6 @@ import re
 import telebot
 import database_interaction
 from datetime import date
-from connect_to_database import connection
 from data import TOKEN_TELEGRAM_BOT
 from keyboards import *
 
